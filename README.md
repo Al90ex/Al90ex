@@ -18,14 +18,14 @@
 
 ❤️ Passionate about:
 
--📡 Technology
+- 📡 Technology
 
--💻 Coding
+- 💻 Coding
 
--🎸 Music
+- 🎸 Music
 
--🎬 Movies
+- 🎬 Movies
 
--🎮 Games
+- 🎮 Games
 
 ----
