@@ -18,4 +18,6 @@
 
 - 🎬 Movies
 
+- 🥋 Martial arts
+
 - 🎮 Games
