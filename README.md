@@ -8,14 +8,6 @@
 
 ----
 
-🍔 Snack Bar Airö founder:
-
-- IG: @snackbarairo
-
-- FB: @SnackBarAiro
-
-----
-
 ❤️ Passionate about:
 
 - 📡 Technology
