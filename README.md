@@ -1,15 +1,16 @@
 👋 Hi, I’m Alex
 
-💻 I’m a Web/Software developer and Business Analyst
+💻 I’m a Web/Software developer and IT specialist
 
-🎓 Professional Bachelor ODEC in Business and Administration, main field of study: Business Informatics (Switzerland, February 2022)
+🎓 Business Data Processing Specialist, Advanced Federal Diploma of Higher Education (Switzerland, February 2022)
 
 🧑‍🍳 In the prevoius 15 years I worked, in the hotel industry as cook, bartender, receptionist and hotel/restaurant manager
 
 ----
 
 ### 📜 Additional certificates
-- IREB - Certified Professional for Requirements Engineering - Foundation Level (Switzerland, 14.07.2022)
+- IREB - Certified Professional for Requirements Engineering - Foundation Level (Switzerland, July 2022)
+- HERMES Foundation - Release 2022 - TÜV SÜD (Switzerland, February 2024)
 
 ----
 
