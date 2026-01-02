@@ -1,6 +1,6 @@
 👋 Hi, I’m Alex
 
-💻 I’m a Web/Software developer and IT specialist
+💻 I’m a Cybersecurity Engineer and Web/Software developer
 
 🎓 Business Data Processing Specialist, Advanced Federal Diploma of Higher Education (Switzerland, February 2022)
 
@@ -22,3 +22,4 @@
 - 🎬 Movies
 - 🥋 Martial arts
 - 🎮 Games
+
